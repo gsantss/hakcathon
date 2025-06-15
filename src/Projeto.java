@@ -1,3 +1,4 @@
+package src;
 public class Projeto {
     private Profissional orientador;
     private Equipe equipe;
